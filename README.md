@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liangsqrt
 - 👀 I’m interested in fullstack
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Java SprintBoot
+- 🌱 I’m learning java currently
+- 💞️ I’m looking to collaborate on SprintBoot
 - 📫 my email is liangsqrt@163.com
 
 <!---
